@@ -1,0 +1,4 @@
+#Clion编译文件
+./cmake-build-debug/
+#QT编译文件
+./build/
