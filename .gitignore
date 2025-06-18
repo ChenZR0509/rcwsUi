@@ -1,4 +1,5 @@
-#Clion编译文件
-./cmake-build-debug/
-#QT编译文件
-./build/
+#Clion相关
+.idea/
+cmake-build-debug/
+#QT相关
+build/
